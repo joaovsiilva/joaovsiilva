@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaovsiilva
 - 👀 I’m interested in learn new languages programmation
-- 🌱 I’m currently learning python and SQL
+- 🌱 I’m currently learning python, SQL, PowerBI and Cloud Computer (AWS and Azure)
 - 📫 How to reach me www.linkedin.com/in/joãovictor-silva
 
 
